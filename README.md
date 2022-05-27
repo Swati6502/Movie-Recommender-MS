@@ -7,7 +7,10 @@
 
 
 ### Steps
-- Create and activate virtual env
+- Download [dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+- Run jupyter notebook.
+- Configure generated pkls path in app.py.
+- Create and activate virtual env.
 - Install requirements,
 ```shell
 pip install -r requirements.txt
